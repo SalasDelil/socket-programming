@@ -5,7 +5,8 @@ and a client through the internet. In this assignment, a client will interact wi
 server over TCP sockets, and it is going to be implemented using Python
 programming language.
 
-Transmission Control Protocol (TCP) Sockets
+# Transmission Control Protocol (TCP) Sockets
+
 We are going to create a socket object using socket.socket(), specifying the socket
 type as socket.SOCK_STREAM. When we do that, the default protocol that’s used
 is the Transmission Control Protocol (TCP).
